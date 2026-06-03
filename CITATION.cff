@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "FG RiskMap: Financial Distortion Monitor"
+message: "If you use or reference this demonstration project, please cite it as follows."
+type: software
+authors:
+
+* family-names: Huang
+  given-names: Jim Y.
+  repository-code: "https://github.com/jimyongzhihuang/fg-riskmap-demo"
+  url: "https://www.fiscalgeometry.com"
+  abstract: "FG RiskMap is a demonstration project for pre-answer risk routing and financial distortion monitoring in legal, tax, and financial workflows. It uses ITI, gITI, and IDI to show structural distortion before compliance review, audit, filing, lending, legal review, regulatory review, or litigation."
+  keywords:
+* fiscal geometry
+* financial distortion
+* risk routing
+* institutional tension
+* legal AI
+* tax AI
+* fintech
+* regtech
+* AI governance
+  license: "proprietary"
+  version: "0.1.0"
+  date-released: "2026-06-02"
