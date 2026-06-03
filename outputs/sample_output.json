@@ -1,0 +1,90 @@
+[
+  {
+    "period": "2006Q1",
+    "ITI": 0.175,
+    "gITI": 0.1333,
+    "IDI": 0.0417,
+    "routing_status": "Stable",
+    "human_review_required": false
+  },
+  {
+    "period": "2006Q2",
+    "ITI": 0.19,
+    "gITI": 0.1567,
+    "IDI": 0.0333,
+    "routing_status": "Stable",
+    "human_review_required": false
+  },
+  {
+    "period": "2006Q3",
+    "ITI": 0.215,
+    "gITI": 0.1867,
+    "IDI": 0.0283,
+    "routing_status": "Stable",
+    "human_review_required": false
+  },
+  {
+    "period": "2006Q4",
+    "ITI": 0.2425,
+    "gITI": 0.2267,
+    "IDI": 0.0158,
+    "routing_status": "Stable",
+    "human_review_required": false
+  },
+  {
+    "period": "2007Q1",
+    "ITI": 0.2975,
+    "gITI": 0.2933,
+    "IDI": 0.0042,
+    "routing_status": "Stable",
+    "human_review_required": false
+  },
+  {
+    "period": "2007Q2",
+    "ITI": 0.35,
+    "gITI": 0.3833,
+    "IDI": 0.0333,
+    "routing_status": "Watch",
+    "human_review_required": false
+  },
+  {
+    "period": "2007Q3",
+    "ITI": 0.425,
+    "gITI": 0.5067,
+    "IDI": 0.0817,
+    "routing_status": "Watch",
+    "human_review_required": false
+  },
+  {
+    "period": "2007Q4",
+    "ITI": 0.505,
+    "gITI": 0.6133,
+    "IDI": 0.1083,
+    "routing_status": "Distorted",
+    "human_review_required": true
+  },
+  {
+    "period": "2008Q1",
+    "ITI": 0.585,
+    "gITI": 0.72,
+    "IDI": 0.135,
+    "routing_status": "Distorted",
+    "human_review_required": true
+  },
+  {
+    "period": "2008Q2",
+    "ITI": 0.67,
+    "gITI": 0.8,
+    "IDI": 0.13,
+    "routing_status": "Escalate",
+    "human_review_required": true
+  },
+  {
+    "period": "2008Q3",
+    "ITI": 0.775,
+    "gITI": 0.9067,
+    "IDI": 0.1317,
+    "routing_status": "Escalate",
+    "human_review_required": true
+  }
+]
