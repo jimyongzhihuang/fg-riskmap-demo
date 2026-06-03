@@ -106,6 +106,15 @@ fg-riskmap-demo/
 ```bash
 python src/riskmap.py
 ```
+## Intellectual Property Status
+
+FG RiskMap is connected to the author's broader Fiscal Geometry and Institutional Tension framework.
+
+Related intellectual property filings have been made for the author's broader institutional-risk framework.
+
+The ZITI trademark application has received a Notice of Approval from the Canadian Intellectual Property Office (CIPO).
+
+FG RiskMap is presented here as a demonstration repository for pre-answer risk routing, financial distortion monitoring, and non-operational framework visibility.
 
 ## Positioning Statement
 
